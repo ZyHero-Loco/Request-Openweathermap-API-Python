@@ -1,2 +1,2 @@
 # Python Programming Badge: Lab Two
-An example api call for Openweathermap.org
+A python program for sending a request to Openweathermap.org API
